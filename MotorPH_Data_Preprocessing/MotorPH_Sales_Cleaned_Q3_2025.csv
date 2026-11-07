@@ -1,0 +1,995 @@
+date,client_type,product_name,unit_price,quantity,total,payment_method
+2025-07-22,Retail,Zontes GK350,269000,20,5380000,Cash
+2025-06-15,Wholesale,Yamaha FZi 150,99900,18,1798200,Credit card
+2025-08-11,Wholesale,Zontes GK350,269000,41,11029000,Credit card
+2025-07-31,Retail,Italjet Dragster 200,289000,50,14450000,Cash
+2025-06-21,Wholesale,Zontes 310X,248000,7,1736000,Cash
+2025-08-22,Retail,Zontes 310X,248000,3,744000,Cash
+2025-08-26,Retail,Yamaha Aerox 155,124000,28,3472000,Credit card
+2025-08-14,Unknown,KTM 790 Duke,599000,14,8386000,Cash
+2025-08-14,Retail,Bajaj Dominar 400,199900,12,2398800,Transfer
+2025-08-27,Wholesale,KTM 790 Duke,599000,46,27554000,Credit card
+2025-06-24,Wholesale,Vespa GTS Super 300,398000,19,7562000,Credit card
+2025-06-03,Wholesale,Moto Guzzi V7 Stone,689000,13,8957000,Cash
+2025-06-22,Retail,Bristol Veloce 500,328000,4,1312000,Credit card
+2025-07-23,Retail,Honda Click 125i,80900,14,1132600,Cash
+2025-06-02,Retail,CFMoto 300SR,165000,9,1485000,Transfer
+2025-08-27,Retail,Vespa Primavera 150,210000,2,420000,Cash
+2025-06-30,Wholesale,Honda ADV 160,164900,5,824500,Cash
+2025-07-08,Wholesale,Suzuki Burgman Street 125,80900,42,3397800,Transfer
+2025-06-02,Retail,Moto Guzzi V7 Stone,689000,10,6890000,Transfer
+2025-08-03,Retail,CFMoto 650MT,345000,47,16215000,Cash
+2025-07-30,Wholesale,Yamaha MT-15,178000,15,2670000,Credit card
+2025-06-21,Retail,Yamaha Sniper 155,125900,24,3021600,Credit card
+2025-07-03,Retail,Yamaha FZi 150,99900,19,1898100,Credit card
+2025-08-15,Retail,Keeway RKS 150 Sport,68900,4,275600,Cash
+2025-07-28,Wholesale,Husqvarna Svartpilen 401,295000,49,14455000,Transfer
+2025-06-22,Retail,Keeway RKS 150 Sport,68900,3,206700,Cash
+2025-08-28,Wholesale,Yamaha XMAX 300,319000,22,7018000,Cash
+2025-07-19,Wholesale,Bajaj Dominar 400,199900,15,2998500,Cash
+2025-08-30,Wholesale,Honda CBR500R,389000,2,778000,Cash
+2025-07-29,Retail,Honda CRF300L,284900,42,11965800,Credit card
+2025-07-12,Wholesale,Suzuki GSX-S150,125000,19,2375000,Cash
+2025-08-31,Retail,Honda CRF300L,284900,3,854700,Transfer
+2025-07-30,Retail,Suzuki Raider R150 Fi,119900,6,719400,Transfer
+2025-08-19,Wholesale,Vespa GTS Super 300,398000,20,7960000,Credit card
+2025-06-15,Wholesale,Suzuki Avenis 125,79900,7,559300,Credit card
+2025-08-01,Wholesale,BMW G 310 GS,320000,5,1600000,Credit card
+2025-08-01,Retail,BMW G 310 GS,320000,18,5760000,Transfer
+2025-07-17,Wholesale,Rusi Flash 125,48000,50,2400000,Transfer
+2025-08-01,Wholesale,Suzuki Raider R150 Fi,119900,9,1079100,Credit card
+2025-07-21,Retail,Suzuki GSX-S150,125000,11,1375000,Cash
+2025-07-25,Retail,SYM Jet X 150,128000,18,2304000,Transfer
+2025-08-03,Wholesale,Yamaha Aerox 155,124000,12,1488000,Credit card
+2025-06-03,Retail,Keeway RKS 150 Sport,68900,35,2411500,Credit card
+2025-07-21,Wholesale,Vespa Primavera 150,210000,13,2730000,Transfer
+2025-06-07,Retail,SYM Jet X 150,128000,43,5504000,Transfer
+2025-06-21,Retail,Benelli 502C,349000,21,7329000,Transfer
+2025-08-12,Retail,Honda CRF300L,284900,2,569800,Cash
+2025-07-09,Retail,Suzuki GSX-S150,125000,9,1125000,Credit card
+2025-06-18,Wholesale,Honda ADV 160,164900,50,8245000,Credit card
+2025-06-04,Retail,Yamaha Aerox 155,124000,2,248000,Credit card
+2025-08-28,Retail,Suzuki Burgman Street 125,80900,25,2022500,Credit card
+2025-07-30,Retail,BMW R nineT,995000,33,32835000,Transfer
+2025-06-14,Retail,Moto Guzzi V7 Stone,689000,43,29627000,Transfer
+2025-06-09,Retail,CFMoto 650MT,345000,13,4485000,Cash
+2025-08-29,Wholesale,Harley-Davidson Street 750,499000,3,1497000,Credit card
+2025-07-23,Retail,CFMoto 300SR,165000,19,3135000,Credit card
+2025-06-02,Retail,CFMoto 300SR,165000,25,4125000,Cash
+2025-08-23,Wholesale,Vespa Primavera 150,210000,11,2310000,Transfer
+2025-08-31,Wholesale,Honda Click 125i,80900,31,2507900,Credit card
+2025-07-30,Wholesale,Vespa GTS Super 300,398000,9,3582000,Transfer
+2025-08-10,Wholesale,Aprilia SR GT 200,219000,10,2190000,Credit card
+2025-07-14,Wholesale,Bajaj Dominar 400,199900,7,1399300,Transfer
+2025-06-08,Wholesale,Moto Morini X-Cape 650,369000,27,9963000,Cash
+2025-07-17,Wholesale,Zontes GK350,269000,4,1076000,Transfer
+2025-07-05,Wholesale,Motorstar Xplorer 250R,78900,10,789000,Credit card
+2025-08-20,Retail,Kawasaki KLX 230,199000,5,995000,Transfer
+2025-07-06,Retail,Bajaj CT125,67900,17,1154300,Transfer
+2025-07-20,Wholesale,Honda CBR500R,389000,18,7002000,Cash
+2025-06-04,Wholesale,Bajaj CT125,67900,20,1358000,Transfer
+2025-06-02,Wholesale,Kawasaki Z400,331000,15,4965000,Transfer
+2025-06-06,Retail,Motorstar Xplorer 250R,78900,36,2840400,Credit card
+2025-07-24,Wholesale,Rusi Flash 125,48000,9,432000,Credit card
+2025-06-04,Retail,Bristol Bobber 650,398000,36,14328000,Credit card
+2025-07-24,Retail,CFMoto 300SR,165000,42,6930000,Cash
+2025-08-02,Retail,Yamaha Sniper 155,125900,13,1636700,Credit card
+2025-06-18,Wholesale,Aprilia SR GT 200,219000,4,876000,Credit card
+2025-08-29,Retail,Yamaha FZi 150,99900,46,4595400,Transfer
+2025-07-14,Retail,Yamaha NMAX 155,151900,5,759500,Transfer
+2025-07-04,Wholesale,Suzuki Raider R150 Fi,119900,5,599500,Credit card
+2025-08-13,Retail,Kawasaki Ninja 400,340000,8,2720000,Cash
+2025-08-01,Wholesale,Yamaha FZi 150,99900,8,799200,Cash
+2025-06-14,Retail,Moto Guzzi V7 Stone,689000,40,27560000,Cash
+2025-07-18,Retail,Yamaha Serow 250,299000,31,9269000,Transfer
+2025-06-15,Unknown,KTM Duke 200,178000,15,2670000,Cash
+2025-08-11,Retail,Suzuki Raider R150 Fi,119900,2,239800,Transfer
+2025-08-17,Wholesale,Honda ADV 160,164900,8,1319200,Credit card
+2025-08-26,Retail,Moto Morini X-Cape 650,369000,12,4428000,Cash
+2025-08-01,Retail,Kawasaki KLX 230,199000,19,3781000,Transfer
+2025-07-10,Retail,Bristol Bobber 650,398000,20,7960000,Transfer
+2025-08-24,Retail,SYM Jet X 150,128000,17,2176000,Cash
+2025-08-19,Retail,Honda CRF300L,284900,17,4843300,Credit card
+2025-08-21,Retail,KTM RC 200,198000,7,1386000,Cash
+2025-07-23,Wholesale,Yamaha MT-15,178000,6,1068000,Cash
+2025-06-24,Retail,Bristol Veloce 500,328000,4,1312000,Credit card
+2025-06-26,Retail,Yamaha Serow 250,299000,28,8372000,Transfer
+2025-08-28,Wholesale,Bristol Bobber 650,398000,2,796000,Cash
+2025-07-30,Retail,Honda CRF300L,284900,7,1994300,Cash
+2025-07-11,Retail,Kawasaki KLX 230,199000,6,1194000,Transfer
+2025-06-29,Wholesale,KTM Duke 200,178000,7,1246000,Transfer
+2025-06-15,Retail,Harley-Davidson Street 750,499000,19,9481000,Transfer
+2025-07-15,Retail,Suzuki GSX-S150,125000,19,2375000,Transfer
+2025-08-04,Wholesale,CFMoto 650MT,345000,4,1380000,Transfer
+2025-08-28,Wholesale,Italjet Dragster 200,289000,10,2890000,Cash
+2025-08-10,Wholesale,Yamaha XMAX 300,319000,31,9889000,Transfer
+2025-06-09,Retail,KTM 790 Duke,599000,14,8386000,Transfer
+2025-08-27,Wholesale,Yamaha NMAX 155,151900,19,2886100,Credit card
+2025-06-01,Wholesale,KTM 790 Duke,599000,9,5391000,Transfer
+2025-06-08,Wholesale,Bristol Bobber 650,398000,1,398000,Transfer
+2025-08-27,Wholesale,Suzuki GSX-S150,125000,14,1750000,Transfer
+2025-08-02,Retail,CFMoto 650MT,345000,6,2070000,Cash
+2025-06-11,Wholesale,Bristol Bobber 650,398000,22,8756000,Credit card
+2025-08-20,Retail,Suzuki Raider R150 Fi,119900,13,1558700,Cash
+2025-06-08,Wholesale,Suzuki Burgman Street 125,80900,5,404500,Transfer
+2025-07-05,Wholesale,CFMoto 650MT,345000,9,3105000,Cash
+2025-07-05,Retail,Keeway RKS 150 Sport,68900,21,1446900,Cash
+2025-07-03,Wholesale,CFMoto 300NK,165000,20,3300000,Credit card
+2025-06-05,Wholesale,Yamaha FZi 150,99900,17,1698300,Credit card
+2025-07-11,Wholesale,KTM 790 Duke,599000,26,15574000,Transfer
+2025-06-28,Wholesale,Kawasaki Ninja 400,340000,8,2720000,Unknown
+2025-06-07,Retail,Honda CRF300L,284900,2,569800,Transfer
+2025-08-12,Retail,Rusi Flash 125,48000,33,1584000,Cash
+2025-08-11,Retail,Bristol Veloce 500,328000,12,3936000,Cash
+2025-06-12,Retail,BMW G 310 GS,320000,49,15680000,Credit card
+2025-07-04,Retail,Yamaha NMAX 155,151900,32,4860800,Credit card
+2025-07-03,Retail,Kawasaki KLX 230,199000,13,2587000,Transfer
+2025-07-18,Wholesale,Yamaha FZi 150,99900,5,499500,Cash
+2025-06-23,Wholesale,Honda Click 125i,80900,7,566300,Credit card
+2025-08-01,Wholesale,Vespa Primavera 150,210000,39,8190000,Cash
+2025-08-27,Retail,Yamaha Aerox 155,124000,10,1240000,Transfer
+2025-07-07,Wholesale,Kawasaki Z400,331000,50,16550000,Cash
+2025-07-14,Retail,Moto Guzzi V7 Stone,689000,4,2756000,Transfer
+2025-08-25,Retail,Moto Guzzi V7 Stone,689000,28,19292000,Credit card
+2025-08-30,Wholesale,TVS Apache RTR 200 4V,129000,38,4902000,Cash
+2025-07-05,Wholesale,SYM Jet X 150,128000,12,1536000,Credit card
+2025-08-04,Wholesale,Yamaha XMAX 300,319000,3,957000,Cash
+2025-07-17,Retail,Zontes GK350,269000,27,7263000,Transfer
+2025-08-17,Retail,Italjet Dragster 200,289000,37,10693000,Cash
+2025-06-03,Wholesale,Benelli 502C,349000,13,4537000,Cash
+2025-06-01,Retail,Yamaha Sniper 155,125900,8,1007200,Cash
+2025-06-05,Wholesale,Bristol Bobber 650,398000,28,11144000,Credit card
+2025-08-29,Wholesale,Kawasaki KLX 230,199000,5,995000,Transfer
+2025-06-14,Retail,Honda Rebel 1100,650000,1,650000,Transfer
+2025-06-27,Wholesale,Honda Click 125i,80900,21,1698900,Cash
+2025-06-09,Wholesale,BMW G 310 GS,320000,20,6400000,Credit card
+2025-08-18,Retail,KTM RC 200,198000,17,3366000,Transfer
+2025-06-15,Retail,CFMoto 300NK,165000,35,5775000,Cash
+2025-08-29,Wholesale,Kawasaki Z400,331000,1,331000,Credit card
+2025-07-12,Wholesale,Aprilia SR GT 200,219000,10,2190000,Cash
+2025-08-16,Wholesale,Yamaha Serow 250,299000,14,4186000,Transfer
+2025-07-21,Wholesale,Kawasaki KLX 230,199000,50,9950000,Cash
+2025-08-02,Wholesale,SYM Jet X 150,128000,20,2560000,Credit card
+2025-07-22,Wholesale,Moto Guzzi V7 Stone,689000,28,19292000,Credit card
+2025-06-04,Retail,KTM RC 200,198000,15,2970000,Credit card
+2025-06-23,Wholesale,Suzuki Raider R150 Fi,119900,2,239800,Credit card
+2025-06-15,Retail,Suzuki Burgman Street 125,80900,10,809000,Credit card
+2025-07-13,Retail,Yamaha XSR155,182000,12,2184000,Transfer
+2025-06-29,Retail,BMW G 310 GS,320000,19,6080000,Cash
+2025-07-06,Wholesale,Vespa Primavera 150,210000,7,1470000,Transfer
+2025-06-13,Retail,Moto Guzzi V7 Stone,689000,13,8957000,Cash
+2025-07-02,Retail,Kawasaki Ninja 400,340000,25,8500000,Credit card
+2025-08-10,Retail,Yamaha Aerox 155,124000,6,744000,Credit card
+2025-07-29,Retail,Yamaha NMAX 155,151900,19,2886100,Credit card
+2025-08-25,Retail,Rusi Flash 125,48000,23,1104000,Credit card
+2025-06-28,Wholesale,Yamaha XSR155,182000,2,364000,Transfer
+2025-08-05,Wholesale,KTM Duke 200,178000,9,1602000,Transfer
+2025-07-12,Wholesale,Honda Rebel 1100,650000,17,11050000,Transfer
+2025-07-15,Wholesale,Suzuki Raider R150 Fi,119900,20,2398000,Credit card
+2025-07-25,Retail,Zontes GK350,269000,1,269000,Transfer
+2025-07-27,Wholesale,CFMoto 300SR,165000,28,4620000,Cash
+2025-06-06,Retail,Yamaha XSR155,182000,20,3640000,Transfer
+2025-06-28,Retail,TVS Apache RTR 200 4V,129000,9,1161000,Transfer
+2025-06-28,Retail,Rusi Flash 125,48000,48,2304000,Cash
+2025-07-14,Retail,CFMoto 300SR,165000,44,7260000,Transfer
+2025-08-23,Wholesale,Benelli 502C,349000,15,5235000,Cash
+2025-06-30,Retail,Yamaha FZi 150,99900,5,499500,Cash
+2025-08-01,Retail,Kawasaki Ninja 400,340000,10,3400000,Transfer
+2025-08-14,Retail,Yamaha Aerox 155,124000,19,2356000,Credit card
+2025-08-31,Retail,Zontes 310X,248000,13,3224000,Credit card
+2025-08-28,Retail,Honda ADV 160,164900,4,659600,Transfer
+2025-08-01,Wholesale,BMW R nineT,995000,7,6965000,Credit card
+2025-06-01,Retail,Honda CRF300L,284900,32,9116800,Transfer
+2025-06-27,Wholesale,CFMoto 300NK,165000,19,3135000,Transfer
+2025-08-01,Retail,Yamaha NMAX 155,151900,20,3038000,Cash
+2025-08-16,Wholesale,CFMoto 300NK,165000,20,3300000,Transfer
+2025-06-03,Retail,CFMoto 300SR,165000,7,1155000,Transfer
+2025-08-09,Unknown,Yamaha Sniper 155,125900,8,1007200,Credit card
+2025-08-11,Wholesale,Kawasaki Z400,331000,14,4634000,Cash
+2025-06-27,Retail,Honda Click 125i,80900,3,242700,Cash
+2025-06-09,Wholesale,SYM Husky 150,72900,11,801900,Credit card
+2025-08-01,Wholesale,KTM RC 200,198000,3,594000,Cash
+2025-07-07,Retail,Kawasaki KLX 230,199000,9,1791000,Cash
+2025-07-21,Retail,Italjet Dragster 200,289000,30,8670000,Transfer
+2025-07-14,Retail,Suzuki Avenis 125,79900,4,319600,Transfer
+2025-06-24,Wholesale,Royal Enfield Classic 350,250000,8,2000000,Credit card
+2025-08-18,Retail,Yamaha FZi 150,99900,16,1598400,Credit card
+2025-07-29,Retail,Bajaj CT125,67900,13,882700,Transfer
+2025-07-02,Retail,Yamaha Serow 250,299000,13,3887000,Transfer
+2025-08-27,Retail,KTM Duke 200,178000,38,6764000,Transfer
+2025-07-22,Wholesale,Vespa GTS Super 300,398000,44,17512000,Transfer
+2025-08-01,Retail,Yamaha XMAX 300,319000,7,2233000,Credit card
+2025-07-28,Wholesale,Bajaj CT125,67900,11,746900,Cash
+2025-07-22,Wholesale,Yamaha XMAX 300,319000,40,12760000,Cash
+2025-06-12,Retail,Benelli 502C,349000,12,4188000,Transfer
+2025-07-09,Wholesale,Bajaj CT125,67900,17,1154300,Transfer
+2025-06-02,Wholesale,Bristol Bobber 650,398000,32,12736000,Credit card
+2025-06-03,Retail,Italjet Dragster 200,289000,11,3179000,Cash
+2025-07-26,Retail,KTM RC 200,198000,37,7326000,Credit card
+2025-08-20,Retail,Kawasaki KLX 230,199000,17,3383000,Transfer
+2025-07-29,Retail,SYM Husky 150,72900,29,2114100,Credit card
+2025-06-02,Wholesale,CFMoto 650MT,345000,4,1380000,Cash
+2025-06-02,Retail,CFMoto 650MT,345000,10,3450000,Cash
+2025-08-31,Retail,Italjet Dragster 200,289000,10,2890000,Cash
+2025-07-24,Retail,Yamaha XSR155,182000,10,1820000,Credit card
+2025-08-26,Wholesale,Bristol Veloce 500,328000,4,1312000,Credit card
+2025-06-01,Unknown,Harley-Davidson Street 750,499000,7,3493000,Cash
+2025-01-13,Retail,Bajaj CT125,67900,21,1425900,Cash
+2025-06-02,Retail,Moto Morini X-Cape 650,369000,19,7011000,Cash
+2025-07-23,Retail,CFMoto 300SR,165000,20,3300000,Credit card
+2025-07-14,Wholesale,KTM RC 200,198000,5,990000,Credit card
+2025-08-29,Wholesale,Honda ADV 160,164900,17,2803300,Cash
+2025-07-02,Wholesale,Bajaj Dominar 400,199900,1,199900,Transfer
+2025-08-09,Wholesale,Yamaha Sniper 155,125900,9,1133100,Credit card
+2025-07-02,Retail,Yamaha Serow 250,299000,32,9568000,Credit card
+2025-08-07,Wholesale,Kawasaki Ninja 400,340000,47,15980000,Credit card
+2025-07-25,Wholesale,Bajaj CT125,67900,3,203700,Cash
+2025-08-14,Retail,Honda ADV 160,164900,17,2803300,Credit card
+2025-07-26,Retail,Suzuki Avenis 125,79900,6,479400,Transfer
+2025-06-17,Wholesale,Motorstar Xplorer 250R,78900,43,3392700,Transfer
+2025-07-08,Retail,Yamaha Serow 250,299000,6,1794000,Credit card
+2025-06-24,Retail,Yamaha XSR155,182000,20,3640000,Transfer
+2025-08-08,Wholesale,Honda Rebel 1100,650000,3,1950000,Transfer
+2025-08-09,Retail,Vespa Primavera 150,210000,36,7560000,Cash
+2025-08-25,Wholesale,Yamaha Aerox 155,124000,15,1860000,Cash
+2025-06-11,Retail,Honda Click 125i,80900,38,3074200,Transfer
+2025-06-16,Wholesale,Honda Click 125i,80900,16,1294400,Cash
+2025-08-12,Wholesale,Yamaha NMAX 155,151900,3,455700,Cash
+2025-07-29,Retail,Honda CBR500R,389000,3,1167000,Transfer
+2025-08-09,Wholesale,Bajaj Dominar 400,199900,8,1599200,Transfer
+2025-08-19,Retail,Harley-Davidson Street 750,499000,4,1996000,Credit card
+2025-06-03,Retail,Honda CRF300L,284900,21,5982900,Cash
+2025-06-20,Wholesale,Harley-Davidson Street 750,499000,6,2994000,Credit card
+2025-07-29,Retail,Keeway RKS 150 Sport,68900,42,2893800,Credit card
+2025-07-06,Retail,Zontes 310X,248000,12,2976000,Cash
+2025-06-19,Wholesale,KTM RC 200,198000,14,2772000,Unknown
+2025-08-29,Retail,Moto Guzzi V7 Stone,689000,20,13780000,Cash
+2025-08-06,Unknown,Yamaha Aerox 155,124000,18,2232000,Transfer
+2025-06-19,Wholesale,KTM Duke 200,178000,9,1602000,Cash
+2025-06-20,Retail,Honda Rebel 1100,650000,1,650000,Credit card
+2025-08-10,Retail,Honda ADV 160,164900,14,2308600,Cash
+2025-07-22,Retail,Yamaha Serow 250,299000,2,598000,Transfer
+2025-07-03,Retail,Benelli 502C,349000,15,5235000,Cash
+2025-07-10,Wholesale,Bristol Bobber 650,398000,15,5970000,Cash
+2025-07-09,Wholesale,Yamaha Serow 250,299000,6,1794000,Credit card
+2025-08-21,Retail,KTM 790 Duke,599000,42,25158000,Credit card
+2025-06-01,Retail,KTM 790 Duke,599000,1,599000,Credit card
+2025-06-11,Wholesale,Motorstar Xplorer 250R,78900,23,1814700,Transfer
+2025-08-31,Retail,Yamaha Serow 250,299000,35,10465000,Cash
+2025-07-27,Wholesale,Bajaj Dominar 400,199900,31,6196900,Transfer
+2025-08-28,Wholesale,Yamaha Sniper 155,125900,28,3525200,Cash
+2025-07-20,Wholesale,Yamaha NMAX 155,151900,17,2582300,Transfer
+2025-06-23,Retail,Suzuki Avenis 125,79900,19,1518100,Cash
+2025-07-01,Retail,Motorstar Xplorer 250R,78900,19,1499100,Transfer
+2025-07-12,Wholesale,CFMoto 650MT,345000,33,11385000,Credit card
+2025-06-07,Retail,Kawasaki Ninja 400,340000,5,1700000,Credit card
+2025-06-16,Retail,Motorstar Xplorer 250R,78900,5,394500,Transfer
+2025-08-29,Wholesale,Aprilia SR GT 200,219000,46,10074000,Credit card
+2025-07-30,Wholesale,Yamaha XMAX 300,319000,18,5742000,Cash
+2025-06-02,Wholesale,Zontes GK350,269000,11,2959000,Cash
+2025-06-01,Wholesale,Keeway RKS 150 Sport,68900,12,826800,Transfer
+2025-07-18,Retail,CFMoto 300NK,165000,12,1980000,Credit card
+2025-06-12,Retail,CFMoto 300NK,165000,43,7095000,Cash
+2025-08-08,Retail,CFMoto 300SR,165000,8,1320000,Transfer
+2025-07-07,Retail,Bajaj CT125,67900,1,67900,Credit card
+2025-07-02,Retail,Aprilia SR GT 200,219000,3,657000,Transfer
+2025-06-09,Retail,Honda CBR500R,389000,21,8169000,Cash
+2025-06-19,Wholesale,Yamaha Aerox 155,124000,11,1364000,Credit card
+2025-07-18,Wholesale,Yamaha MT-15,178000,14,2492000,Cash
+2025-08-19,Wholesale,Royal Enfield Classic 350,250000,2,500000,Transfer
+2025-06-03,Retail,Yamaha Sniper 155,125900,17,2140300,Cash
+2025-06-20,Retail,Yamaha FZi 150,99900,35,3496500,Cash
+2025-06-24,Retail,Motorstar Xplorer 250R,78900,17,1341300,Credit card
+2025-07-24,Wholesale,Yamaha MT-15,178000,24,4272000,Transfer
+2025-07-03,Retail,Zontes 310X,248000,6,1488000,Transfer
+2025-06-24,Retail,KTM Duke 200,178000,12,2136000,Transfer
+2025-08-14,Retail,Royal Enfield Classic 350,250000,34,8500000,Transfer
+2025-08-11,Wholesale,Honda Rebel 1100,650000,10,6500000,Cash
+2025-07-06,Wholesale,Yamaha Aerox 155,124000,9,1116000,Cash
+2025-07-08,Wholesale,Honda ADV 160,164900,43,7090700,Cash
+2025-08-23,Retail,Moto Guzzi V7 Stone,689000,10,6890000,Cash
+2025-08-28,Retail,BMW R nineT,995000,8,7960000,Credit card
+2025-06-25,Retail,KTM 790 Duke,599000,33,19767000,Cash
+2025-06-18,Retail,Royal Enfield Classic 350,250000,11,2750000,Credit card
+2025-08-21,Wholesale,Bajaj Dominar 400,199900,5,999500,Transfer
+2025-08-05,Wholesale,Honda Rebel 1100,650000,3,1950000,Credit card
+2025-07-24,Retail,Motorstar Xplorer 250R,78900,12,946800,Credit card
+2025-07-05,Wholesale,Suzuki GSX-S150,125000,42,5250000,Credit card
+2025-08-19,Retail,Suzuki Burgman Street 125,80900,37,2993300,Credit card
+2025-07-31,Retail,Bajaj Dominar 400,199900,17,3398300,Cash
+2025-07-11,Wholesale,Yamaha Serow 250,299000,27,8073000,Cash
+2025-07-03,Wholesale,Moto Morini X-Cape 650,369000,19,7011000,Transfer
+2025-08-07,Retail,Moto Guzzi V7 Stone,689000,3,2067000,Credit card
+2025-07-03,Wholesale,Yamaha Serow 250,299000,17,5083000,Credit card
+2025-06-14,Retail,BMW G 310 GS,320000,16,5120000,Credit card
+2025-06-21,Retail,Yamaha Serow 250,299000,19,5681000,Cash
+2025-07-18,Wholesale,BMW R nineT,995000,24,23880000,Credit card
+2025-06-20,Retail,KTM RC 200,198000,11,2178000,Cash
+2025-06-08,Retail,CFMoto 300NK,165000,4,660000,Credit card
+2025-06-07,Wholesale,Rusi Flash 125,48000,5,240000,Cash
+2025-08-06,Wholesale,TVS Apache RTR 200 4V,129000,3,387000,Credit card
+2025-06-17,Retail,Zontes GK350,269000,1,269000,Transfer
+2025-07-03,Wholesale,CFMoto 650MT,345000,3,1035000,Unknown
+2025-07-18,Retail,Kawasaki KLX 230,199000,20,3980000,Credit card
+2025-08-15,Wholesale,BMW G 310 GS,320000,27,8640000,Cash
+2025-07-29,Retail,Honda CRF300L,284900,2,569800,Credit card
+2025-08-25,Retail,Yamaha Aerox 155,124000,9,1116000,Cash
+2025-06-22,Retail,CFMoto 650MT,345000,49,16905000,Cash
+2025-06-30,Wholesale,Rusi Flash 125,48000,45,2160000,Credit card
+2025-07-08,Wholesale,Keeway RKS 150 Sport,68900,15,1033500,Unknown
+2025-07-21,Wholesale,Italjet Dragster 200,289000,2,578000,Transfer
+2025-07-24,Retail,Suzuki Raider R150 Fi,119900,9,1079100,Transfer
+2025-06-08,Wholesale,Royal Enfield Classic 350,250000,1,250000,Transfer
+2025-06-27,Retail,Kawasaki Ninja 400,340000,2,680000,Credit card
+2025-06-27,Retail,KTM Duke 200,178000,14,2492000,Cash
+2025-06-21,Retail,Bajaj CT125,67900,20,1358000,Credit card
+2025-06-30,Retail,Honda Rebel 1100,650000,38,24700000,Transfer
+2025-06-28,Retail,Vespa Primavera 150,210000,46,9660000,Credit card
+2025-08-03,Retail,Keeway RKS 150 Sport,68900,16,1102400,Credit card
+2025-07-31,Wholesale,Bajaj Dominar 400,199900,10,1999000,Cash
+2025-07-18,Wholesale,Kawasaki KLX 230,199000,1,199000,Credit card
+2025-06-19,Wholesale,Yamaha XMAX 300,319000,10,3190000,Cash
+2025-06-04,Retail,CFMoto 650MT,345000,9,3105000,Transfer
+2025-07-05,Wholesale,Yamaha Sniper 155,125900,18,2266200,Credit card
+2025-08-03,Wholesale,Suzuki Avenis 125,79900,20,1598000,Credit card
+2025-07-19,Wholesale,Motorstar Xplorer 250R,78900,32,2524800,Credit card
+2025-06-17,Retail,Zontes 310X,248000,15,3720000,Credit card
+2025-07-14,Wholesale,Honda Rebel 1100,650000,8,5200000,Cash
+2025-08-31,Retail,Bristol Bobber 650,398000,43,17114000,Cash
+2025-06-30,Wholesale,Keeway RKS 150 Sport,68900,26,1791400,Transfer
+2025-07-16,Wholesale,Suzuki Raider R150 Fi,119900,16,1918400,Transfer
+2025-06-06,Retail,Zontes 310X,248000,10,2480000,Cash
+2025-07-07,Wholesale,Suzuki Avenis 125,79900,42,3355800,Transfer
+2025-06-24,Retail,Honda CBR500R,389000,4,1556000,Credit card
+2025-07-16,Wholesale,Zontes GK350,269000,5,1345000,Credit card
+2025-07-23,Retail,Bristol Bobber 650,398000,9,3582000,Credit card
+2025-07-30,Wholesale,Suzuki GSX-S150,125000,4,500000,Cash
+2025-08-02,Wholesale,Kawasaki Ninja 400,340000,4,1360000,Cash
+2025-08-24,Wholesale,Aprilia SR GT 200,219000,1,219000,Cash
+2025-07-02,Retail,Vespa GTS Super 300,398000,13,5174000,Cash
+2025-08-26,Wholesale,Kawasaki KLX 230,199000,50,9950000,Credit card
+2025-07-03,Wholesale,Yamaha MT-15,178000,1,178000,Credit card
+2025-08-06,Wholesale,Yamaha XMAX 300,319000,7,2233000,Credit card
+2025-06-18,Retail,Kawasaki Ninja 400,340000,16,5440000,Transfer
+2025-06-25,Wholesale,Husqvarna Svartpilen 401,295000,50,14750000,Credit card
+2025-07-24,Wholesale,Honda Click 125i,80900,19,1537100,Cash
+2025-07-28,Wholesale,Bajaj Dominar 400,199900,46,9195400,Cash
+2025-08-06,Wholesale,Suzuki Avenis 125,79900,13,1038700,Credit card
+2025-07-16,Wholesale,Yamaha Serow 250,299000,8,2392000,Credit card
+2025-06-24,Wholesale,Yamaha Serow 250,299000,29,8671000,Transfer
+2025-07-02,Retail,Bajaj Dominar 400,199900,6,1199400,Credit card
+2025-07-17,Wholesale,BMW R nineT,995000,26,25870000,Credit card
+2025-08-25,Retail,Honda Rebel 1100,650000,50,32500000,Cash
+2025-06-23,Wholesale,Kawasaki KLX 230,199000,8,1592000,Transfer
+2025-08-05,Retail,Zontes 310X,248000,18,4464000,Transfer
+2025-06-27,Retail,Yamaha XSR155,182000,21,3822000,Cash
+2025-06-02,Wholesale,Yamaha MT-15,178000,1,178000,Transfer
+2025-08-29,Retail,CFMoto 300NK,165000,15,2475000,Cash
+2025-06-17,Wholesale,SYM Jet X 150,128000,15,1920000,Cash
+2025-07-03,Retail,Honda CRF300L,284900,12,3418800,Credit card
+2025-07-13,Wholesale,Husqvarna Svartpilen 401,295000,4,1180000,Transfer
+2025-07-18,Retail,Yamaha FZi 150,99900,29,2897100,Cash
+2025-07-09,Wholesale,TVS Apache RTR 200 4V,129000,37,4773000,Credit card
+2025-07-12,Wholesale,Honda ADV 160,164900,48,7915200,Credit card
+2025-06-26,Retail,Vespa GTS Super 300,398000,18,7164000,Credit card
+2025-07-20,Retail,Aprilia SR GT 200,219000,7,1533000,Credit card
+2025-06-25,Wholesale,Husqvarna Svartpilen 401,295000,12,3540000,Credit card
+2025-06-24,Retail,Moto Guzzi V7 Stone,689000,16,11024000,Transfer
+2025-06-13,Retail,Zontes GK350,269000,45,12105000,Credit card
+2025-07-30,Wholesale,Yamaha MT-15,178000,5,890000,Credit card
+2025-06-07,Retail,Honda CBR500R,389000,11,4279000,Transfer
+2025-07-27,Retail,KTM RC 200,198000,7,1386000,Credit card
+2025-07-06,Wholesale,Bristol Bobber 650,398000,13,5174000,Credit card
+2025-07-15,Retail,Suzuki GSX-S150,125000,24,3000000,Cash
+2025-06-20,Wholesale,Royal Enfield Classic 350,250000,7,1750000,Transfer
+2025-08-04,Retail,BMW G 310 GS,320000,42,13440000,Credit card
+2025-06-08,Retail,CFMoto 300SR,165000,15,2475000,Cash
+2025-06-16,Wholesale,Bajaj CT125,67900,10,679000,Cash
+2025-06-14,Retail,Bristol Bobber 650,398000,12,4776000,Credit card
+2025-08-15,Retail,SYM Jet X 150,128000,23,2944000,Transfer
+2025-08-26,Wholesale,Yamaha XSR155,182000,2,364000,Transfer
+2025-06-15,Retail,Yamaha FZi 150,99900,16,1598400,Transfer
+2025-08-31,Retail,CFMoto 300NK,165000,38,6270000,Credit card
+2025-08-05,Wholesale,Bajaj Dominar 400,199900,7,1399300,Credit card
+2025-07-02,Retail,Yamaha Aerox 155,124000,31,3844000,Transfer
+2025-08-26,Retail,Moto Guzzi V7 Stone,689000,15,10335000,Transfer
+2025-08-02,Retail,Husqvarna Svartpilen 401,295000,4,1180000,Transfer
+2025-08-25,Wholesale,Yamaha XSR155,182000,19,3458000,Unknown
+2025-07-21,Wholesale,TVS Apache RTR 200 4V,129000,47,6063000,Credit card
+2025-06-25,Retail,Vespa Primavera 150,210000,1,210000,Cash
+2025-07-28,Retail,Zontes 310X,248000,3,744000,Cash
+2025-08-02,Retail,Yamaha Sniper 155,125900,16,2014400,Credit card
+2025-08-01,Wholesale,Zontes GK350,269000,9,2421000,Cash
+2025-06-22,Retail,Yamaha MT-15,178000,41,7298000,Cash
+2025-07-28,Wholesale,Husqvarna Svartpilen 401,295000,17,5015000,Credit card
+2025-07-28,Wholesale,Bristol Veloce 500,328000,43,14104000,Transfer
+2025-08-25,Retail,Zontes 310X,248000,44,10912000,Cash
+2025-07-19,Wholesale,Keeway RKS 150 Sport,68900,1,68900,Credit card
+2025-07-22,Wholesale,Honda Rebel 1100,650000,3,1950000,Credit card
+2025-07-12,Retail,CFMoto 300SR,165000,20,3300000,Transfer
+2025-08-09,Retail,Bajaj CT125,67900,33,2240700,Credit card
+2025-06-15,Wholesale,Bajaj Dominar 400,199900,41,8195900,Transfer
+2025-07-24,Wholesale,Suzuki Burgman Street 125,80900,11,889900,Transfer
+2025-07-30,Retail,KTM 790 Duke,599000,20,11980000,Transfer
+2025-06-08,Wholesale,Kawasaki Z400,331000,11,3641000,Credit card
+2025-07-23,Wholesale,Bristol Veloce 500,328000,11,3608000,Cash
+2025-07-30,Retail,Yamaha FZi 150,99900,32,3196800,Cash
+2025-06-05,Retail,Honda Rebel 1100,650000,20,13000000,Cash
+2025-08-07,Retail,KTM 790 Duke,599000,1,599000,Transfer
+2025-06-06,Wholesale,Royal Enfield Classic 350,250000,33,8250000,Transfer
+2025-07-17,Retail,Harley-Davidson Street 750,499000,12,5988000,Credit card
+2025-07-10,Retail,Yamaha XSR155,182000,12,2184000,Credit card
+2025-07-22,Retail,CFMoto 650MT,345000,41,14145000,Transfer
+2025-06-16,Retail,Bajaj CT125,67900,13,882700,Credit card
+2025-06-13,Wholesale,Bajaj CT125,67900,30,2037000,Credit card
+2025-06-30,Retail,SYM Husky 150,72900,9,656100,Credit card
+2025-06-19,Retail,Honda Click 125i,80900,1,80900,Cash
+2025-06-17,Retail,Husqvarna Svartpilen 401,295000,20,5900000,Credit card
+2025-08-02,Retail,Suzuki Raider R150 Fi,119900,16,1918400,Credit card
+2025-06-19,Wholesale,Zontes 310X,248000,48,11904000,Credit card
+2025-08-31,Retail,Husqvarna Svartpilen 401,295000,4,1180000,Credit card
+2025-07-28,Wholesale,Honda CBR500R,389000,9,3501000,Credit card
+2025-07-25,Wholesale,Zontes 310X,248000,25,6200000,Transfer
+2025-08-29,Wholesale,Vespa GTS Super 300,398000,12,4776000,Credit card
+2025-08-29,Retail,Honda Rebel 1100,650000,4,2600000,Transfer
+2025-08-01,Retail,KTM RC 200,198000,2,396000,Transfer
+2025-06-23,Retail,KTM 790 Duke,599000,3,1797000,Cash
+2025-06-09,Retail,SYM Jet X 150,128000,3,384000,Credit card
+2025-06-12,Retail,BMW G 310 GS,320000,35,11200000,Cash
+2025-06-01,Retail,Yamaha XMAX 300,319000,26,8294000,Transfer
+2025-07-28,Retail,Vespa GTS Super 300,398000,24,9552000,Credit card
+2025-06-01,Retail,Suzuki GSX-S150,125000,13,1625000,Cash
+2025-07-04,Retail,Suzuki Raider R150 Fi,119900,11,1318900,Cash
+2025-07-18,Retail,Vespa GTS Super 300,398000,19,7562000,Credit card
+2025-08-28,Retail,Rusi Flash 125,48000,32,1536000,Credit card
+2025-06-01,Retail,Yamaha Aerox 155,124000,38,4712000,Cash
+2025-06-16,Retail,Rusi Flash 125,48000,14,672000,Cash
+2025-07-31,Wholesale,Honda ADV 160,164900,2,329800,Credit card
+2025-08-03,Wholesale,Kawasaki Ninja 400,340000,28,9520000,Cash
+2025-08-02,Retail,Yamaha Sniper 155,125900,20,2518000,Credit card
+2025-08-08,Retail,Italjet Dragster 200,289000,2,578000,Cash
+2025-06-22,Retail,KTM 790 Duke,599000,49,29351000,Credit card
+2025-08-06,Retail,Aprilia SR GT 200,219000,6,1314000,Transfer
+2025-08-15,Retail,Honda CBR500R,389000,45,17505000,Credit card
+2025-06-26,Wholesale,Yamaha FZi 150,99900,16,1598400,Cash
+2025-06-16,Retail,CFMoto 300SR,165000,13,2145000,Credit card
+2025-07-21,Retail,Suzuki Avenis 125,79900,38,3036200,Cash
+2025-08-25,Wholesale,Yamaha NMAX 155,151900,14,2126600,Credit card
+2025-07-27,Wholesale,Kawasaki KLX 230,199000,8,1592000,Credit card
+2025-06-29,Wholesale,Yamaha Aerox 155,124000,33,4092000,Credit card
+2025-08-17,Wholesale,Vespa Primavera 150,210000,16,3360000,Credit card
+2025-08-31,Retail,Yamaha Aerox 155,124000,3,372000,Transfer
+2025-08-08,Retail,CFMoto 300SR,165000,10,1650000,Credit card
+2025-07-17,Retail,Moto Guzzi V7 Stone,689000,7,4823000,Cash
+2025-08-01,Retail,CFMoto 300NK,165000,30,4950000,Credit card
+2025-08-08,Wholesale,SYM Jet X 150,128000,16,2048000,Unknown
+2025-08-15,Wholesale,Moto Guzzi V7 Stone,689000,28,19292000,Cash
+2025-06-16,Wholesale,Royal Enfield Classic 350,250000,5,1250000,Transfer
+2025-08-29,Retail,Rusi Flash 125,48000,16,768000,Credit card
+2025-08-29,Wholesale,Honda CRF300L,284900,20,5698000,Transfer
+2025-07-18,Retail,Suzuki GSX-S150,125000,5,625000,Transfer
+2025-08-24,Retail,CFMoto 300NK,165000,15,2475000,Transfer
+2025-07-09,Wholesale,Bajaj Dominar 400,199900,1,199900,Credit card
+2025-07-03,Retail,Keeway RKS 150 Sport,68900,16,1102400,Credit card
+2025-06-23,Retail,Zontes GK350,269000,50,13450000,Credit card
+2025-06-10,Wholesale,BMW G 310 GS,320000,20,6400000,Transfer
+2025-08-08,Retail,Zontes GK350,269000,11,2959000,Cash
+2025-07-04,Wholesale,Honda Click 125i,80900,18,1456200,Transfer
+2025-07-22,Wholesale,KTM RC 200,198000,1,198000,Cash
+2025-06-10,Retail,Moto Guzzi V7 Stone,689000,16,11024000,Credit card
+2025-06-19,Wholesale,Suzuki GSX-S150,125000,3,375000,Transfer
+2025-07-28,Wholesale,BMW G 310 GS,320000,9,2880000,Transfer
+2025-06-01,Retail,Bajaj CT125,67900,6,407400,Credit card
+2025-08-08,Wholesale,Royal Enfield Classic 350,250000,4,1000000,Cash
+2025-06-04,Wholesale,Honda Click 125i,80900,14,1132600,Transfer
+2025-06-16,Retail,Zontes 310X,248000,50,12400000,Cash
+2025-06-24,Retail,Honda ADV 160,164900,13,2143700,Cash
+2025-08-19,Wholesale,Zontes 310X,248000,11,2728000,Cash
+2025-06-02,Wholesale,Yamaha FZi 150,99900,5,499500,Cash
+2025-08-31,Retail,Bristol Veloce 500,328000,12,3936000,Credit card
+2025-07-02,Retail,KTM 790 Duke,599000,10,5990000,Unknown
+2025-08-30,Retail,KTM RC 200,198000,26,5148000,Transfer
+2025-08-23,Wholesale,Vespa Primavera 150,210000,1,210000,Cash
+2025-06-24,Retail,Suzuki GSX-S150,125000,7,875000,Credit card
+2025-06-12,Wholesale,Honda CBR500R,389000,14,5446000,Transfer
+2025-07-20,Wholesale,Keeway RKS 150 Sport,68900,7,482300,Cash
+2025-07-05,Wholesale,BMW R nineT,995000,25,24875000,Transfer
+2025-07-03,Retail,Suzuki Avenis 125,79900,42,3355800,Credit card
+2025-07-03,Retail,Moto Guzzi V7 Stone,689000,1,689000,Cash
+2025-07-31,Wholesale,Bristol Bobber 650,398000,42,16716000,Transfer
+2025-07-21,Wholesale,Aprilia SR GT 200,219000,1,219000,Cash
+2025-07-13,Retail,CFMoto 300SR,165000,18,2970000,Cash
+2025-06-12,Wholesale,Yamaha XSR155,182000,11,2002000,Cash
+2025-08-06,Retail,Suzuki Avenis 125,79900,1,79900,Transfer
+2025-08-04,Retail,Zontes GK350,269000,19,5111000,Transfer
+2025-07-03,Wholesale,Zontes 310X,248000,40,9920000,Transfer
+2025-07-10,Retail,Zontes GK350,269000,13,3497000,Transfer
+2025-08-13,Wholesale,Bajaj CT125,67900,43,2919700,Transfer
+2025-07-13,Wholesale,Keeway RKS 150 Sport,68900,14,964600,Cash
+2025-07-14,Retail,Yamaha MT-15,178000,11,1958000,Credit card
+2025-06-29,Wholesale,Bajaj CT125,67900,11,746900,Transfer
+2025-06-13,Wholesale,Yamaha FZi 150,99900,30,2997000,Credit card
+2025-06-12,Wholesale,Yamaha XMAX 300,319000,17,5423000,Transfer
+2025-07-16,Wholesale,Honda Rebel 1100,650000,8,5200000,Credit card
+2025-06-02,Retail,Yamaha NMAX 155,151900,29,4405100,Cash
+2025-07-05,Retail,Kawasaki KLX 230,199000,7,1393000,Transfer
+2025-08-26,Retail,Aprilia SR GT 200,219000,40,8760000,Transfer
+2025-08-20,Wholesale,Yamaha Serow 250,299000,19,5681000,Cash
+2025-08-29,Retail,SYM Husky 150,72900,4,291600,Transfer
+2025-06-08,Retail,Honda Rebel 1100,650000,21,13650000,Cash
+2025-06-26,Wholesale,Moto Morini X-Cape 650,369000,16,5904000,Transfer
+2025-08-13,Retail,KTM RC 200,198000,19,3762000,Cash
+2025-08-29,Unknown,Yamaha Sniper 155,125900,17,2140300,Credit card
+2025-07-04,Retail,Yamaha Serow 250,299000,3,897000,Transfer
+2025-06-07,Retail,Vespa GTS Super 300,398000,20,7960000,Credit card
+2025-08-07,Retail,Keeway RKS 150 Sport,68900,9,620100,Transfer
+2025-07-28,Wholesale,Yamaha Sniper 155,125900,16,2014400,Transfer
+2025-08-14,Retail,Yamaha XSR155,182000,5,910000,Transfer
+2025-06-29,Retail,BMW G 310 GS,320000,4,1280000,Cash
+2025-07-06,Retail,Suzuki Avenis 125,79900,34,2716600,Transfer
+2025-08-28,Retail,Honda Rebel 1100,650000,11,7150000,Transfer
+2025-06-21,Wholesale,Honda CBR500R,389000,13,5057000,Transfer
+2025-07-06,Retail,Yamaha XMAX 300,319000,18,5742000,Cash
+2025-06-10,Retail,SYM Husky 150,72900,7,510300,Cash
+2025-08-12,Retail,Suzuki Burgman Street 125,80900,46,3721400,Credit card
+2025-06-24,Retail,Harley-Davidson Street 750,499000,49,24451000,Credit card
+2025-08-03,Retail,Bajaj CT125,67900,47,3191300,Credit card
+2025-07-19,Wholesale,Yamaha FZi 150,99900,17,1698300,Credit card
+2025-07-06,Wholesale,Moto Guzzi V7 Stone,689000,16,11024000,Transfer
+2025-08-21,Wholesale,KTM Duke 200,178000,18,3204000,Cash
+2025-06-24,Wholesale,Keeway RKS 150 Sport,68900,17,1171300,Credit card
+2025-06-23,Retail,Zontes 310X,248000,15,3720000,Transfer
+2025-08-01,Wholesale,Zontes GK350,269000,15,4035000,Credit card
+2025-07-07,Wholesale,Suzuki Raider R150 Fi,119900,17,2038300,Credit card
+2025-06-12,Wholesale,CFMoto 300NK,165000,30,4950000,Transfer
+2025-07-25,Retail,Motorstar Xplorer 250R,78900,4,315600,Transfer
+2025-06-13,Retail,CFMoto 300SR,165000,42,6930000,Credit card
+2025-06-23,Wholesale,Yamaha Sniper 155,125900,6,755400,Transfer
+2025-08-28,Retail,Suzuki Raider R150 Fi,119900,27,3237300,Credit card
+2025-06-30,Retail,Motorstar Xplorer 250R,78900,20,1578000,Credit card
+2025-06-17,Wholesale,Yamaha MT-15,178000,39,6942000,Transfer
+2025-08-01,Retail,Moto Guzzi V7 Stone,689000,45,31005000,Credit card
+2025-08-23,Wholesale,SYM Jet X 150,128000,31,3968000,Credit card
+2025-08-28,Retail,Motorstar Xplorer 250R,78900,48,3787200,Transfer
+2025-08-25,Retail,Kawasaki Ninja 400,340000,13,4420000,Credit card
+2025-06-13,Wholesale,Moto Guzzi V7 Stone,689000,5,3445000,Credit card
+2025-07-29,Unknown,Yamaha XSR155,182000,12,2184000,Cash
+2025-06-19,Wholesale,Royal Enfield Classic 350,250000,6,1500000,Cash
+2025-07-19,Retail,Rusi Flash 125,48000,10,480000,Transfer
+2025-06-12,Retail,Honda CRF300L,284900,32,9116800,Cash
+2025-07-31,Wholesale,KTM RC 200,198000,5,990000,Transfer
+2025-06-19,Wholesale,Motorstar Xplorer 250R,78900,2,157800,Credit card
+2025-08-15,Wholesale,Royal Enfield Classic 350,250000,17,4250000,Credit card
+2025-06-09,Wholesale,Suzuki GSX-S150,125000,17,2125000,Credit card
+2025-08-10,Wholesale,BMW G 310 GS,320000,49,15680000,Cash
+2025-06-28,Retail,BMW G 310 GS,320000,3,960000,Transfer
+2025-08-17,Wholesale,Yamaha NMAX 155,151900,21,3189900,Transfer
+2025-07-22,Retail,Kawasaki KLX 230,199000,2,398000,Credit card
+2025-08-22,Wholesale,Bristol Bobber 650,398000,27,10746000,Transfer
+2025-06-16,Retail,Yamaha FZi 150,99900,12,1198800,Cash
+2025-08-08,Retail,Honda ADV 160,164900,28,4617200,Transfer
+2025-06-12,Wholesale,Yamaha XSR155,182000,20,3640000,Credit card
+2025-06-25,Wholesale,KTM 790 Duke,599000,5,2995000,Cash
+2025-07-22,Retail,Vespa GTS Super 300,398000,18,7164000,Cash
+2025-08-24,Retail,Zontes GK350,269000,19,5111000,Credit card
+2025-07-23,Wholesale,Suzuki Raider R150 Fi,119900,8,959200,Cash
+2025-06-23,Retail,Yamaha MT-15,178000,16,2848000,Transfer
+2025-06-16,Wholesale,Yamaha MT-15,178000,36,6408000,Transfer
+2025-07-27,Wholesale,Harley-Davidson Street 750,499000,22,10978000,Cash
+2025-07-09,Wholesale,Yamaha NMAX 155,151900,9,1367100,Credit card
+2025-07-23,Wholesale,Suzuki Raider R150 Fi,119900,30,3597000,Transfer
+2025-07-12,Retail,SYM Husky 150,72900,2,145800,Cash
+2025-07-28,Retail,Vespa GTS Super 300,398000,4,1592000,Transfer
+2025-07-09,Wholesale,Yamaha FZi 150,99900,16,1598400,Transfer
+2025-06-14,Wholesale,Italjet Dragster 200,289000,18,5202000,Cash
+2025-06-05,Wholesale,Suzuki Raider R150 Fi,119900,20,2398000,Transfer
+2025-07-05,Wholesale,CFMoto 650MT,345000,24,8280000,Transfer
+2025-08-26,Retail,KTM RC 200,198000,44,8712000,Credit card
+2025-08-14,Wholesale,Kawasaki Z400,331000,45,14895000,Cash
+2025-06-18,Retail,Yamaha Sniper 155,125900,18,2266200,Cash
+2025-08-15,Wholesale,Honda CBR500R,389000,41,15949000,Transfer
+2025-06-09,Wholesale,BMW R nineT,995000,25,24875000,Credit card
+2025-08-13,Wholesale,Honda Rebel 1100,650000,4,2600000,Credit card
+2025-07-28,Wholesale,Kawasaki KLX 230,199000,17,3383000,Cash
+2025-06-17,Wholesale,Suzuki Avenis 125,79900,14,1118600,Credit card
+2025-06-07,Wholesale,Vespa GTS Super 300,398000,20,7960000,Cash
+2025-07-16,Retail,Honda Click 125i,80900,12,970800,Credit card
+2025-06-13,Wholesale,TVS Apache RTR 200 4V,129000,16,2064000,Transfer
+2025-07-10,Wholesale,Zontes 310X,248000,49,12152000,Transfer
+2025-07-12,Wholesale,Vespa GTS Super 300,398000,5,1990000,Cash
+2025-06-09,Retail,Suzuki GSX-S150,125000,8,1000000,Cash
+2025-07-20,Wholesale,Suzuki Raider R150 Fi,119900,37,4436300,Transfer
+2025-06-27,Retail,Honda Rebel 1100,650000,8,5200000,Transfer
+2025-08-05,Retail,Yamaha MT-15,178000,12,2136000,Cash
+2025-06-05,Wholesale,Honda Click 125i,80900,14,1132600,Unknown
+2025-06-29,Wholesale,Bristol Veloce 500,328000,12,3936000,Cash
+2025-07-07,Wholesale,Moto Morini X-Cape 650,369000,49,18081000,Transfer
+2025-07-08,Wholesale,Bajaj CT125,67900,4,271600,Transfer
+2025-08-22,Wholesale,CFMoto 300NK,165000,47,7755000,Credit card
+2025-06-08,Wholesale,CFMoto 300SR,165000,1,165000,Credit card
+2025-08-04,Wholesale,Benelli 502C,349000,5,1745000,Transfer
+2025-08-25,Wholesale,Suzuki GSX-S150,125000,19,2375000,Transfer
+2025-06-17,Retail,Kawasaki Z400,331000,46,15226000,Credit card
+2025-08-10,Retail,Royal Enfield Classic 350,250000,44,11000000,Cash
+2025-08-28,Wholesale,Harley-Davidson Street 750,499000,13,6487000,Transfer
+2025-07-15,Retail,Bristol Bobber 650,398000,37,14726000,Cash
+2025-06-04,Retail,SYM Jet X 150,128000,7,896000,Cash
+2025-07-06,Retail,CFMoto 300NK,165000,18,2970000,Credit card
+2025-08-09,Retail,Keeway RKS 150 Sport,68900,6,413400,Cash
+2025-07-01,Retail,Moto Guzzi V7 Stone,689000,10,6890000,Transfer
+2025-06-19,Retail,Royal Enfield Classic 350,250000,38,9500000,Credit card
+2025-07-31,Retail,Bristol Bobber 650,398000,44,17512000,Credit card
+2025-07-24,Wholesale,Royal Enfield Classic 350,250000,6,1500000,Transfer
+2025-07-09,Wholesale,Bristol Bobber 650,398000,11,4378000,Cash
+2025-08-30,Retail,BMW R nineT,995000,10,9950000,Credit card
+2025-08-13,Wholesale,Zontes GK350,269000,13,3497000,Cash
+2025-08-29,Retail,Honda ADV 160,164900,19,3133100,Transfer
+2025-06-19,Wholesale,Suzuki GSX-S150,125000,3,375000,Cash
+2025-07-09,Retail,Yamaha FZi 150,99900,20,1998000,Cash
+2025-08-06,Wholesale,Suzuki Avenis 125,79900,41,3275900,Credit card
+2025-07-15,Wholesale,Yamaha FZi 150,99900,6,599400,Credit card
+2025-06-13,Retail,Vespa GTS Super 300,398000,41,16318000,Transfer
+2025-08-31,Retail,Yamaha Serow 250,299000,20,5980000,Cash
+2025-07-28,Retail,Royal Enfield Classic 350,250000,17,4250000,Transfer
+2025-06-20,Retail,Bristol Bobber 650,398000,1,398000,Transfer
+2025-08-31,Wholesale,Bajaj Dominar 400,199900,13,2598700,Credit card
+2025-08-11,Retail,CFMoto 300NK,165000,2,330000,Cash
+2025-07-31,Wholesale,Honda ADV 160,164900,3,494700,Transfer
+2025-07-09,Wholesale,Royal Enfield Classic 350,250000,15,3750000,Transfer
+2025-06-01,Retail,Keeway RKS 150 Sport,68900,20,1378000,Transfer
+2025-06-03,Retail,Royal Enfield Classic 350,250000,22,5500000,Credit card
+2025-08-16,Unknown,Honda ADV 160,164900,9,1484100,Transfer
+2025-08-31,Wholesale,Bajaj CT125,67900,13,882700,Credit card
+2025-08-01,Retail,Yamaha XSR155,182000,4,728000,Cash
+2025-08-02,Retail,BMW G 310 GS,320000,2,640000,Transfer
+2025-06-25,Wholesale,Honda CBR500R,389000,47,18283000,Cash
+2025-07-26,Wholesale,Moto Guzzi V7 Stone,689000,14,9646000,Transfer
+2025-07-03,Retail,Honda Click 125i,80900,15,1213500,Cash
+2025-07-08,Retail,KTM 790 Duke,599000,5,2995000,Transfer
+2025-06-06,Retail,Suzuki Raider R150 Fi,119900,7,839300,Credit card
+2025-07-28,Wholesale,Bajaj CT125,67900,30,2037000,Credit card
+2025-07-14,Wholesale,Yamaha Aerox 155,124000,11,1364000,Cash
+2025-07-15,Retail,Royal Enfield Classic 350,250000,23,5750000,Credit card
+2025-07-02,Wholesale,Kawasaki Z400,331000,39,12909000,Cash
+2025-07-15,Retail,Yamaha XSR155,182000,20,3640000,Credit card
+2025-07-31,Retail,Aprilia SR GT 200,219000,25,5475000,Credit card
+2025-07-17,Wholesale,Husqvarna Svartpilen 401,295000,4,1180000,Credit card
+2025-06-21,Wholesale,Italjet Dragster 200,289000,10,2890000,Credit card
+2025-08-19,Unknown,Moto Guzzi V7 Stone,689000,14,9646000,Credit card
+2025-08-24,Wholesale,Royal Enfield Classic 350,250000,35,8750000,Cash
+2025-08-14,Wholesale,Moto Morini X-Cape 650,369000,3,1107000,Transfer
+2025-07-06,Retail,Benelli 502C,349000,42,14658000,Cash
+2025-06-19,Wholesale,CFMoto 300NK,165000,23,3795000,Credit card
+2025-07-27,Retail,Kawasaki KLX 230,199000,1,199000,Cash
+2025-06-18,Wholesale,Benelli 502C,349000,1,349000,Transfer
+2025-07-17,Retail,Husqvarna Svartpilen 401,295000,6,1770000,Credit card
+2025-07-19,Wholesale,Italjet Dragster 200,289000,5,1445000,Cash
+2025-06-14,Retail,Aprilia SR GT 200,219000,22,4818000,Cash
+2025-06-15,Wholesale,Bajaj Dominar 400,199900,41,8195900,Cash
+2025-07-01,Retail,Honda CBR500R,389000,19,7391000,Credit card
+2025-06-01,Retail,Aprilia SR GT 200,219000,10,2190000,Cash
+2025-07-24,Retail,Italjet Dragster 200,289000,20,5780000,Credit card
+2025-06-03,Wholesale,Italjet Dragster 200,289000,49,14161000,Transfer
+2025-06-16,Retail,SYM Husky 150,72900,19,1385100,Credit card
+2025-08-26,Retail,Zontes 310X,248000,43,10664000,Transfer
+2025-07-27,Retail,Husqvarna Svartpilen 401,295000,34,10030000,Credit card
+2025-08-14,Wholesale,Suzuki Burgman Street 125,80900,17,1375300,Credit card
+2025-06-12,Wholesale,Honda CBR500R,389000,3,1167000,Credit card
+2025-08-13,Retail,Benelli 502C,349000,9,3141000,Cash
+2025-06-16,Wholesale,KTM RC 200,198000,37,7326000,Credit card
+2025-08-11,Wholesale,Bristol Bobber 650,398000,26,10348000,Cash
+2025-08-15,Retail,Honda CBR500R,389000,8,3112000,Cash
+2025-06-24,Retail,Honda CRF300L,284900,12,3418800,Transfer
+2025-06-28,Wholesale,Bristol Veloce 500,328000,1,328000,Transfer
+2025-06-08,Retail,Benelli 502C,349000,19,6631000,Transfer
+2025-08-31,Retail,Yamaha XSR155,182000,19,3458000,Transfer
+2025-07-06,Wholesale,CFMoto 650MT,345000,13,4485000,Transfer
+2025-08-29,Wholesale,KTM RC 200,198000,2,396000,Credit card
+2025-06-08,Wholesale,Honda Rebel 1100,650000,5,3250000,Credit card
+2025-07-28,Retail,SYM Husky 150,72900,2,145800,Credit card
+2025-07-30,Wholesale,Kawasaki Z400,331000,49,16219000,Cash
+2025-07-20,Retail,Yamaha Aerox 155,124000,28,3472000,Cash
+2025-06-28,Wholesale,Yamaha Serow 250,299000,26,7774000,Transfer
+2025-08-31,Wholesale,Honda ADV 160,164900,35,5771500,Transfer
+2025-07-11,Wholesale,Harley-Davidson Street 750,499000,30,14970000,Cash
+2025-08-03,Wholesale,Honda CRF300L,284900,28,7977200,Transfer
+2025-06-27,Wholesale,Benelli 502C,349000,46,16054000,Credit card
+2025-08-02,Retail,Yamaha Sniper 155,125900,6,755400,Credit card
+2025-06-17,Retail,KTM RC 200,198000,15,2970000,Transfer
+2025-08-12,Retail,Kawasaki Z400,331000,17,5627000,Cash
+2025-07-03,Retail,Bajaj Dominar 400,199900,50,9995000,Cash
+2025-08-23,Wholesale,CFMoto 300SR,165000,39,6435000,Cash
+2025-08-10,Wholesale,Bajaj Dominar 400,199900,46,9195400,Cash
+2025-08-31,Retail,Bajaj CT125,67900,22,1493800,Cash
+2025-06-29,Wholesale,CFMoto 300SR,165000,37,6105000,Credit card
+2025-06-13,Retail,Yamaha Aerox 155,124000,15,1860000,Credit card
+2025-07-16,Wholesale,Suzuki Burgman Street 125,80900,16,1294400,Cash
+2025-07-05,Retail,Suzuki Raider R150 Fi,119900,7,839300,Cash
+2025-06-06,Wholesale,Suzuki Raider R150 Fi,119900,5,599500,Transfer
+2025-08-21,Wholesale,BMW R nineT,995000,5,4975000,Cash
+2025-08-08,Retail,Suzuki Raider R150 Fi,119900,1,119900,Cash
+2025-07-17,Wholesale,Honda CRF300L,284900,11,3133900,Cash
+2025-06-25,Wholesale,Bristol Bobber 650,398000,4,1592000,Transfer
+2025-08-05,Retail,TVS Apache RTR 200 4V,129000,9,1161000,Cash
+2025-06-10,Wholesale,Honda Click 125i,80900,2,161800,Cash
+2025-07-26,Retail,CFMoto 300NK,165000,8,1320000,Credit card
+2025-06-30,Retail,Keeway RKS 150 Sport,68900,15,1033500,Credit card
+2025-06-05,Retail,Vespa GTS Super 300,398000,4,1592000,Transfer
+2025-07-03,Wholesale,Bajaj CT125,67900,47,3191300,Transfer
+2025-08-04,Retail,Suzuki GSX-S150,125000,31,3875000,Transfer
+2025-06-18,Wholesale,Kawasaki Ninja 400,340000,5,1700000,Transfer
+2025-07-19,Wholesale,Suzuki Avenis 125,79900,6,479400,Transfer
+2025-06-11,Retail,Bristol Bobber 650,398000,7,2786000,Credit card
+2025-08-24,Wholesale,Bristol Veloce 500,328000,8,2624000,Transfer
+2025-06-26,Wholesale,Zontes 310X,248000,6,1488000,Credit card
+2025-08-02,Wholesale,Suzuki Avenis 125,79900,1,79900,Cash
+2025-08-28,Wholesale,Royal Enfield Classic 350,250000,6,1500000,Transfer
+2025-08-25,Wholesale,Honda CRF300L,284900,23,6552700,Credit card
+2025-07-29,Retail,Vespa Primavera 150,210000,10,2100000,Credit card
+2025-06-27,Retail,SYM Husky 150,72900,8,583200,Credit card
+2025-07-19,Retail,Yamaha MT-15,178000,29,5162000,Cash
+2025-08-16,Wholesale,CFMoto 300SR,165000,16,2640000,Credit card
+2025-07-03,Retail,Yamaha XMAX 300,319000,19,6061000,Cash
+2025-06-01,Wholesale,Suzuki Raider R150 Fi,119900,3,359700,Credit card
+2025-06-21,Retail,Benelli 502C,349000,19,6631000,Transfer
+2025-07-25,Wholesale,TVS Apache RTR 200 4V,129000,33,4257000,Transfer
+2025-06-06,Wholesale,Aprilia SR GT 200,219000,7,1533000,Cash
+2025-08-31,Wholesale,Yamaha XSR155,182000,11,2002000,Credit card
+2025-07-25,Retail,Honda CBR500R,389000,16,6224000,Credit card
+2025-08-08,Retail,KTM 790 Duke,599000,45,26955000,Cash
+2025-06-05,Retail,Bristol Bobber 650,398000,13,5174000,Transfer
+2025-06-03,Retail,Suzuki Burgman Street 125,80900,33,2669700,Credit card
+2025-07-23,Wholesale,Benelli 502C,349000,11,3839000,Cash
+2025-06-23,Wholesale,Yamaha Serow 250,299000,11,3289000,Transfer
+2025-07-23,Wholesale,Bristol Bobber 650,398000,19,7562000,Transfer
+2025-07-07,Retail,Honda Rebel 1100,650000,41,26650000,Credit card
+2025-08-13,Retail,Moto Guzzi V7 Stone,689000,4,2756000,Credit card
+2025-08-13,Retail,Bristol Veloce 500,328000,31,10168000,Credit card
+2025-08-22,Retail,Honda CBR500R,389000,16,6224000,Transfer
+2025-06-17,Wholesale,SYM Husky 150,72900,32,2332800,Transfer
+2025-08-24,Retail,Kawasaki Ninja 400,340000,6,2040000,Transfer
+2025-08-17,Wholesale,Yamaha Sniper 155,125900,14,1762600,Cash
+2025-08-12,Retail,Vespa GTS Super 300,398000,17,6766000,Credit card
+2025-06-01,Wholesale,Keeway RKS 150 Sport,68900,21,1446900,Transfer
+2025-07-21,Wholesale,Kawasaki KLX 230,199000,11,2189000,Credit card
+2025-07-15,Wholesale,Vespa Primavera 150,210000,15,3150000,Transfer
+2025-08-16,Retail,Yamaha XSR155,182000,14,2548000,Cash
+2025-06-04,Retail,Bristol Veloce 500,328000,21,6888000,Transfer
+2025-08-01,Retail,Yamaha MT-15,178000,13,2314000,Credit card
+2025-08-04,Retail,BMW R nineT,995000,7,6965000,Cash
+2025-07-02,Wholesale,Honda CBR500R,389000,3,1167000,Cash
+2025-07-04,Retail,CFMoto 300SR,165000,12,1980000,Credit card
+2025-08-31,Retail,Yamaha Serow 250,299000,10,2990000,Transfer
+2025-08-11,Retail,Vespa Primavera 150,210000,10,2100000,Transfer
+2025-07-09,Retail,Motorstar Xplorer 250R,78900,16,1262400,Transfer
+2025-06-26,Retail,Honda ADV 160,164900,19,3133100,Transfer
+2025-07-04,Retail,Suzuki Avenis 125,79900,15,1198500,Cash
+2025-07-24,Retail,Moto Guzzi V7 Stone,689000,12,8268000,Credit card
+2025-06-03,Retail,Keeway RKS 150 Sport,68900,5,344500,Transfer
+2025-07-20,Retail,Yamaha XMAX 300,319000,2,638000,Transfer
+2025-06-12,Wholesale,Keeway RKS 150 Sport,68900,11,757900,Cash
+2025-08-04,Retail,KTM RC 200,198000,29,5742000,Cash
+2025-07-24,Retail,Yamaha Serow 250,299000,33,9867000,Credit card
+2025-06-05,Retail,Honda Click 125i,80900,28,2265200,Transfer
+2025-07-27,Wholesale,Zontes 310X,248000,29,7192000,Credit card
+2025-06-17,Retail,Benelli 502C,349000,41,14309000,Credit card
+2025-07-17,Wholesale,CFMoto 300SR,165000,37,6105000,Transfer
+2025-06-23,Retail,Suzuki GSX-S150,125000,15,1875000,Transfer
+2025-08-18,Wholesale,Suzuki Avenis 125,79900,11,878900,Credit card
+2025-08-24,Retail,Bajaj Dominar 400,199900,17,3398300,Cash
+2025-06-14,Wholesale,Keeway RKS 150 Sport,68900,5,344500,Transfer
+2025-08-05,Retail,Bristol Veloce 500,328000,36,11808000,Credit card
+2025-08-14,Wholesale,Yamaha XSR155,182000,33,6006000,Credit card
+2025-07-21,Retail,Yamaha XSR155,182000,11,2002000,Transfer
+2025-07-08,Retail,Yamaha NMAX 155,151900,3,455700,Transfer
+2025-08-03,Retail,KTM Duke 200,178000,1,178000,Credit card
+2025-07-08,Retail,BMW R nineT,995000,10,9950000,Cash
+2025-07-20,Retail,Moto Morini X-Cape 650,369000,20,7380000,Credit card
+2025-08-21,Wholesale,Kawasaki Ninja 400,340000,12,4080000,Credit card
+2025-06-30,Wholesale,Aprilia SR GT 200,219000,39,8541000,Transfer
+2025-08-18,Wholesale,Harley-Davidson Street 750,499000,47,23453000,Cash
+2025-08-30,Wholesale,Italjet Dragster 200,289000,11,3179000,Credit card
+2025-07-21,Wholesale,Suzuki Raider R150 Fi,119900,15,1798500,Transfer
+2025-08-02,Retail,Suzuki Burgman Street 125,80900,47,3802300,Cash
+2025-07-22,Wholesale,Rusi Flash 125,48000,11,528000,Cash
+2025-07-08,Retail,CFMoto 300SR,165000,1,165000,Credit card
+2025-08-27,Retail,Kawasaki KLX 230,199000,13,2587000,Credit card
+2025-08-18,Wholesale,Yamaha FZi 150,99900,4,399600,Transfer
+2025-06-30,Wholesale,Royal Enfield Classic 350,250000,30,7500000,Cash
+2025-07-21,Wholesale,BMW R nineT,995000,14,13930000,Cash
+2025-08-20,Retail,Bajaj Dominar 400,199900,20,3998000,Credit card
+2025-06-05,Retail,Kawasaki Ninja 400,340000,5,1700000,Transfer
+2025-06-29,Retail,Yamaha Sniper 155,125900,7,881300,Credit card
+2025-06-04,Wholesale,Honda ADV 160,164900,5,824500,Cash
+2025-06-10,Wholesale,BMW R nineT,995000,5,4975000,Credit card
+2025-07-26,Wholesale,SYM Husky 150,72900,11,801900,Cash
+2025-06-17,Wholesale,Aprilia SR GT 200,219000,24,5256000,Transfer
+2025-08-13,Retail,Yamaha Aerox 155,124000,6,744000,Transfer
+2025-06-17,Retail,Vespa Primavera 150,210000,48,10080000,Unknown
+2025-08-23,Retail,Benelli 502C,349000,25,8725000,Cash
+2025-08-27,Wholesale,Kawasaki KLX 230,199000,17,3383000,Credit card
+2025-08-08,Retail,Husqvarna Svartpilen 401,295000,31,9145000,Cash
+2025-07-04,Wholesale,Yamaha NMAX 155,151900,29,4405100,Credit card
+2025-06-06,Wholesale,Kawasaki Z400,331000,3,993000,Credit card
+2025-07-23,Retail,CFMoto 650MT,345000,10,3450000,Credit card
+2025-08-05,Wholesale,Honda CBR500R,389000,12,4668000,Transfer
+2025-08-16,Retail,Yamaha Serow 250,299000,29,8671000,Cash
+2025-07-13,Wholesale,CFMoto 650MT,345000,42,14490000,Credit card
+2025-08-14,Retail,CFMoto 650MT,345000,18,6210000,Transfer
+2025-06-23,Wholesale,Aprilia SR GT 200,219000,17,3723000,Transfer
+2025-07-25,Retail,Bajaj CT125,67900,11,746900,Cash
+2025-08-19,Wholesale,Bristol Bobber 650,398000,8,3184000,Transfer
+2025-08-14,Wholesale,Yamaha NMAX 155,151900,41,6227900,Transfer
+2025-06-16,Retail,Yamaha FZi 150,99900,19,1898100,Credit card
+2025-06-08,Retail,Suzuki Burgman Street 125,80900,18,1456200,Credit card
+2025-06-04,Retail,BMW R nineT,995000,8,7960000,Transfer
+2025-06-04,Retail,Rusi Flash 125,48000,6,288000,Transfer
+2025-07-26,Retail,Yamaha FZi 150,99900,6,599400,Credit card
+2025-06-25,Retail,CFMoto 300NK,165000,2,330000,Transfer
+2025-08-06,Wholesale,Bajaj Dominar 400,199900,24,4797600,Cash
+2025-08-06,Retail,BMW G 310 GS,320000,28,8960000,Credit card
+2025-06-27,Retail,CFMoto 300SR,165000,19,3135000,Credit card
+2025-07-02,Wholesale,Royal Enfield Classic 350,250000,19,4750000,Credit card
+2025-07-20,Wholesale,Bristol Bobber 650,398000,28,11144000,Transfer
+2025-07-31,Wholesale,Vespa Primavera 150,210000,3,630000,Cash
+2025-07-21,Retail,Italjet Dragster 200,289000,46,13294000,Cash
+2025-06-19,Retail,Zontes GK350,269000,13,3497000,Credit card
+2025-06-21,Retail,SYM Jet X 150,128000,20,2560000,Transfer
+2025-06-05,Wholesale,Yamaha Aerox 155,124000,29,3596000,Cash
+2025-08-21,Wholesale,Rusi Flash 125,48000,13,624000,Credit card
+2025-08-31,Retail,Vespa Primavera 150,210000,6,1260000,Transfer
+2025-07-12,Retail,Husqvarna Svartpilen 401,295000,43,12685000,Cash
+2025-07-31,Retail,Benelli 502C,349000,17,5933000,Transfer
+2025-06-22,Retail,Rusi Flash 125,48000,5,240000,Credit card
+2025-06-21,Wholesale,Honda ADV 160,164900,12,1978800,Transfer
+2025-08-09,Retail,Yamaha XMAX 300,319000,1,319000,Transfer
+2025-06-01,Wholesale,Moto Guzzi V7 Stone,689000,12,8268000,Transfer
+2025-06-05,Wholesale,KTM 790 Duke,599000,34,20366000,Transfer
+2025-06-12,Wholesale,Zontes GK350,269000,17,4573000,Credit card
+2025-08-29,Retail,Yamaha Sniper 155,125900,8,1007200,Transfer
+2025-07-16,Retail,Suzuki Raider R150 Fi,119900,4,479600,Credit card
+2025-07-04,Retail,Suzuki Avenis 125,79900,9,719100,Cash
+2025-07-19,Retail,Honda CBR500R,389000,16,6224000,Transfer
+2025-08-17,Retail,Vespa GTS Super 300,398000,17,6766000,Credit card
+2025-08-29,Wholesale,Keeway RKS 150 Sport,68900,29,1998100,Cash
+2025-07-15,Retail,Italjet Dragster 200,289000,26,7514000,Cash
+2025-06-27,Retail,Vespa Primavera 150,210000,16,3360000,Credit card
+2025-08-12,Retail,Bristol Bobber 650,398000,6,2388000,Credit card
+2025-06-26,Retail,BMW R nineT,995000,15,14925000,Credit card
+2025-07-17,Retail,Moto Morini X-Cape 650,369000,13,4797000,Cash
+2025-08-25,Wholesale,Honda CRF300L,284900,13,3703700,Credit card
+2025-07-26,Retail,TVS Apache RTR 200 4V,129000,7,903000,Credit card
+2025-08-02,Wholesale,SYM Husky 150,72900,13,947700,Transfer
+2025-07-18,Wholesale,Benelli 502C,349000,18,6282000,Credit card
+2025-07-31,Wholesale,Suzuki GSX-S150,125000,19,2375000,Credit card
+2025-08-20,Retail,Yamaha XMAX 300,319000,4,1276000,Transfer
+2025-06-26,Retail,Royal Enfield Classic 350,250000,19,4750000,Cash
+2025-07-06,Retail,Aprilia SR GT 200,219000,28,6132000,Credit card
+2025-06-01,Wholesale,Yamaha Aerox 155,124000,23,2852000,Transfer
+2025-06-08,Retail,Honda ADV 160,164900,48,7915200,Cash
+2025-07-22,Retail,Yamaha Sniper 155,125900,33,4154700,Transfer
+2025-08-18,Retail,Yamaha Serow 250,299000,10,2990000,Transfer
+2025-07-17,Wholesale,Honda ADV 160,164900,31,5111900,Credit card
+2025-07-26,Retail,Honda CBR500R,389000,19,7391000,Transfer
+2025-08-25,Wholesale,CFMoto 300NK,165000,14,2310000,Cash
+2025-06-14,Wholesale,Yamaha MT-15,178000,40,7120000,Credit card
+2025-08-29,Wholesale,Moto Morini X-Cape 650,369000,6,2214000,Cash
+2025-06-28,Wholesale,Zontes GK350,269000,14,3766000,Cash
+2025-08-26,Retail,Moto Morini X-Cape 650,369000,34,12546000,Transfer
+2025-08-17,Wholesale,KTM Duke 200,178000,11,1958000,Transfer
+2025-08-27,Wholesale,Yamaha Serow 250,299000,40,11960000,Transfer
+2025-06-02,Retail,Yamaha XSR155,182000,44,8008000,Transfer
+2025-06-26,Retail,Suzuki Raider R150 Fi,119900,12,1438800,Transfer
+2025-06-14,Retail,Moto Guzzi V7 Stone,689000,21,14469000,Transfer
+2025-07-29,Wholesale,CFMoto 300SR,165000,14,2310000,Transfer
+2025-07-26,Retail,Bristol Bobber 650,398000,18,7164000,Transfer
+2025-06-07,Wholesale,Bristol Bobber 650,398000,8,3184000,Cash
+2025-06-03,Wholesale,Kawasaki Ninja 400,340000,25,8500000,Transfer
+2025-06-23,Wholesale,Vespa Primavera 150,210000,26,5460000,Cash
+2025-06-18,Retail,Kawasaki Ninja 400,340000,9,3060000,Credit card
+2025-07-08,Wholesale,Yamaha NMAX 155,151900,9,1367100,Cash
+2025-06-15,Retail,Suzuki GSX-S150,125000,1,125000,Cash
+2025-08-03,Retail,BMW G 310 GS,320000,46,14720000,Transfer
+2025-08-28,Unknown,Zontes 310X,248000,8,1984000,Credit card
+2025-06-28,Wholesale,Suzuki Burgman Street 125,80900,16,1294400,Transfer
+2025-08-13,Retail,Benelli 502C,349000,1,349000,Cash
+2025-07-09,Retail,Kawasaki Z400,331000,18,5958000,Credit card
+2025-07-27,Wholesale,Yamaha Sniper 155,125900,16,2014400,Transfer
+2025-06-17,Wholesale,SYM Husky 150,72900,14,1020600,Cash
+2025-08-25,Retail,Honda Click 125i,80900,19,1537100,Transfer
+2025-08-29,Retail,Kawasaki KLX 230,199000,43,8557000,Transfer
+2025-07-14,Wholesale,Vespa GTS Super 300,398000,18,7164000,Cash
+2025-06-25,Wholesale,Rusi Flash 125,48000,40,1920000,Cash
+2025-06-17,Wholesale,CFMoto 650MT,345000,19,6555000,Transfer
+2025-06-13,Retail,Honda ADV 160,164900,11,1813900,Cash
+2025-08-23,Retail,CFMoto 650MT,345000,21,7245000,Transfer
+2025-06-25,Retail,TVS Apache RTR 200 4V,129000,8,1032000,Transfer
+2025-08-07,Wholesale,Moto Morini X-Cape 650,369000,6,2214000,Transfer
+2025-06-10,Retail,Yamaha FZi 150,99900,5,499500,Cash
+2025-08-06,Wholesale,Vespa Primavera 150,210000,8,1680000,Transfer
+2025-08-25,Wholesale,Yamaha MT-15,178000,12,2136000,Credit card
+2025-07-04,Retail,Bristol Veloce 500,328000,1,328000,Credit card
+2025-06-08,Wholesale,Suzuki Avenis 125,79900,46,3675400,Cash
+2025-07-10,Retail,KTM RC 200,198000,7,1386000,Credit card
+2025-08-22,Retail,Kawasaki KLX 230,199000,9,1791000,Credit card
+2025-07-12,Wholesale,Honda CBR500R,389000,6,2334000,Cash
+2025-07-11,Wholesale,Vespa GTS Super 300,398000,5,1990000,Credit card
+2025-06-06,Retail,BMW G 310 GS,320000,4,1280000,Credit card
+2025-07-22,Wholesale,Bristol Veloce 500,328000,10,3280000,Credit card
+2025-06-26,Wholesale,Honda ADV 160,164900,7,1154300,Credit card
+2025-08-03,Wholesale,KTM 790 Duke,599000,6,3594000,Cash
+2025-07-29,Retail,Kawasaki Z400,331000,48,15888000,Cash
+2025-07-26,Wholesale,Suzuki Avenis 125,79900,5,399500,Credit card
+2025-07-29,Wholesale,CFMoto 650MT,345000,12,4140000,Transfer
+2025-08-09,Wholesale,Kawasaki Ninja 400,340000,15,5100000,Transfer
+2025-07-03,Wholesale,Honda Click 125i,80900,21,1698900,Cash
+2025-07-23,Retail,Motorstar Xplorer 250R,78900,4,315600,Credit card
+2025-06-22,Retail,Yamaha FZi 150,99900,2,199800,Cash
+2025-06-21,Retail,Bajaj CT125,67900,31,2104900,Credit card
+2025-08-09,Wholesale,BMW R nineT,995000,5,4975000,Credit card
+2025-08-09,Wholesale,Kawasaki Ninja 400,340000,12,4080000,Transfer
+2025-06-04,Retail,KTM RC 200,198000,2,396000,Credit card
+2025-08-14,Wholesale,Motorstar Xplorer 250R,78900,11,867900,Credit card
+2025-08-01,Wholesale,Kawasaki KLX 230,199000,42,8358000,Credit card
+2025-08-01,Retail,Royal Enfield Classic 350,250000,8,2000000,Credit card
+2025-06-24,Wholesale,Yamaha XSR155,182000,32,5824000,Transfer
+2025-07-25,Retail,CFMoto 300NK,165000,28,4620000,Credit card
+2025-06-09,Retail,Yamaha Aerox 155,124000,13,1612000,Cash
+2025-06-03,Retail,Yamaha FZi 150,99900,17,1698300,Credit card
+2025-07-01,Retail,Suzuki GSX-S150,125000,6,750000,Cash
+2025-07-10,Wholesale,Bristol Bobber 650,398000,10,3980000,Cash
+2025-07-06,Wholesale,SYM Husky 150,72900,29,2114100,Transfer
+2025-06-24,Wholesale,Yamaha Serow 250,299000,8,2392000,Cash
+2025-06-06,Wholesale,Motorstar Xplorer 250R,78900,8,631200,Cash
+2025-08-05,Wholesale,Moto Morini X-Cape 650,369000,18,6642000,Transfer
+2025-08-23,Wholesale,Bristol Bobber 650,398000,33,13134000,Cash
+2025-08-31,Retail,Bajaj CT125,67900,25,1697500,Transfer
+2025-08-14,Retail,Suzuki Avenis 125,79900,5,399500,Transfer
+2025-06-04,Wholesale,Yamaha Aerox 155,124000,14,1736000,Credit card
+2025-08-18,Wholesale,Royal Enfield Classic 350,250000,48,12000000,Credit card
+2025-06-06,Retail,Aprilia SR GT 200,219000,4,876000,Cash
+2025-07-21,Wholesale,CFMoto 300NK,165000,3,495000,Cash
+2025-08-01,Wholesale,Keeway RKS 150 Sport,68900,5,344500,Credit card
+2025-07-27,Retail,Moto Morini X-Cape 650,369000,32,11808000,Transfer
+2025-08-05,Retail,Benelli 502C,349000,3,1047000,Transfer
+2025-08-18,Retail,Italjet Dragster 200,289000,42,12138000,Credit card
+2025-08-14,Retail,Yamaha Serow 250,299000,20,5980000,Transfer
+2025-06-08,Wholesale,Husqvarna Svartpilen 401,295000,15,4425000,Credit card
+2025-06-26,Wholesale,Bristol Veloce 500,328000,20,6560000,Transfer
+2025-07-21,Wholesale,Aprilia SR GT 200,219000,3,657000,Credit card
+2025-07-15,Wholesale,TVS Apache RTR 200 4V,129000,12,1548000,Cash
+2025-07-14,Retail,Suzuki Raider R150 Fi,119900,18,2158200,Cash
+2025-06-05,Retail,Kawasaki Z400,331000,35,11585000,Cash
+2025-08-09,Wholesale,Moto Guzzi V7 Stone,689000,10,6890000,Transfer
+2025-06-26,Wholesale,Benelli 502C,349000,40,13960000,Transfer
+2025-08-07,Retail,Suzuki GSX-S150,125000,8,1000000,Credit card
+2025-06-19,Retail,Honda CRF300L,284900,13,3703700,Transfer
+2025-08-23,Wholesale,Italjet Dragster 200,289000,12,3468000,Cash
+2025-06-20,Retail,Motorstar Xplorer 250R,78900,43,3392700,Transfer
+2025-06-12,Retail,Zontes 310X,248000,25,6200000,Cash
+2025-07-17,Retail,Keeway RKS 150 Sport,68900,40,2756000,Cash
+2025-06-01,Retail,Vespa Primavera 150,210000,1,210000,Cash
+2025-08-29,Wholesale,Vespa GTS Super 300,398000,16,6368000,Cash
+2025-06-14,Wholesale,KTM Duke 200,178000,3,534000,Unknown
+2025-08-03,Wholesale,Honda ADV 160,164900,9,1484100,Credit card
+2025-07-08,Wholesale,SYM Jet X 150,128000,35,4480000,Credit card
+2025-07-07,Wholesale,BMW G 310 GS,320000,22,7040000,Credit card
+2025-06-11,Retail,Husqvarna Svartpilen 401,295000,11,3245000,Transfer
+2025-08-16,Wholesale,BMW G 310 GS,320000,8,2560000,Credit card
+2025-06-03,Wholesale,Bajaj CT125,67900,10,679000,Cash
+2025-07-03,Retail,Moto Guzzi V7 Stone,689000,6,4134000,Transfer
+2025-06-06,Retail,Yamaha FZi 150,99900,13,1298700,Cash
+2025-07-20,Wholesale,Yamaha XSR155,182000,8,1456000,Transfer
+2025-06-10,Retail,Suzuki Avenis 125,79900,43,3435700,Credit card
+2025-06-05,Wholesale,Honda CBR500R,389000,23,8947000,Cash
+2025-06-23,Retail,Benelli 502C,349000,11,3839000,Credit card
+2025-06-10,Wholesale,CFMoto 650MT,345000,22,7590000,Transfer
+2025-07-14,Wholesale,Moto Guzzi V7 Stone,689000,11,7579000,Credit card
+2025-06-02,Retail,Yamaha FZi 150,99900,48,4795200,Cash
+2025-06-13,Retail,Kawasaki KLX 230,199000,4,796000,Credit card
+2025-07-10,Wholesale,CFMoto 650MT,345000,18,6210000,Transfer
+2025-06-02,Wholesale,Moto Morini X-Cape 650,369000,23,8487000,Credit card
+2025-08-23,Retail,CFMoto 300NK,165000,2,330000,Credit card
+2025-08-04,Retail,Suzuki Burgman Street 125,80900,46,3721400,Credit card
+2025-08-02,Wholesale,Rusi Flash 125,48000,33,1584000,Cash
+2025-08-12,Retail,SYM Jet X 150,128000,1,128000,Credit card

@@ -6,5 +6,5 @@ Python script utilizing pandas for raw data loading, missing value audits, dupli
 By ingesting cleaned product and sales data, the MotorPH script performs data validation and generates both a static PNG graphic and an interactive HTML report:
 [MotorPH_Analytical_Dashboard.png] & [MotorPH_Interactive_Dashboard.html]
 
-- MotorPH_Product&Sales
+- MotorPH_Product&Sales:
 Product and sales CSVs 
